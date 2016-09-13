@@ -13,6 +13,9 @@
 
 ## 伪类
 
+`X:nth-child(-n + i)`
+子级伪类选择器。(前i项)
+
 `X:not(selector)`
 否定伪类选择器。(排除X匹配项中的selector匹配项)
 
