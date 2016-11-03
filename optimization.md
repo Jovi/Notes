@@ -1,3 +1,9 @@
-# optimization
+## optimization
 
-## Webpack Dll
+#### Webpack Dll
+
+#### dns-prefetch
+
+```html
+<link rel="dns-prefetch" href="{{URL}}">
+```
