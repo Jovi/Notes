@@ -1,0 +1,6 @@
+```css
+.scroll{
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+}
+```
